@@ -213,6 +213,8 @@ h1 span {
         height: 170px;
     }
     .container{
+        margin-left: 0;
+        margin-right: 0;
         text-align: left;
     }
     /* Title */
