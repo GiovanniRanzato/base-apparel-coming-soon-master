@@ -210,6 +210,8 @@ h1 span {
         justify-content: flex-start;
     }
     .heading{
+        margin-left: 0;
+        margin-right: 0;
         height: 170px;
     }
     .container{
